@@ -1,0 +1,1 @@
+## EPAM Automation Framework\n\nThis project is a Maven-based Java automation framework built with Selenium WebDriver, TestNG, Page Object Model, Extent Reports and WebDriverManager.\n
